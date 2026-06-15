@@ -1,3 +1,7 @@
+#app, #container {
+  overflow: visible !important;
+}
+
 .controller.xbox {
   width: 750px;
   height: 630px;
