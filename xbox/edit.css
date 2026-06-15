@@ -218,8 +218,8 @@
   position: absolute;
   width: 110px;
   height: 111px;
-  top: 345px;
-  left: 223px;
+  top: 445px;
+  left: 323px;
 }
 
 .xbox .face {
@@ -269,9 +269,7 @@
 
 .xbox {
   background: no-repeat center;
-  position: relative;
-  left: -50px;
-  top: -50px;
+  
 }
 
 /*END Xbox One Controller Styling*/
