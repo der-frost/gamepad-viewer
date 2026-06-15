@@ -1,18 +1,24 @@
 .controller.xbox {
-  outline: 2px solid red;
-  overflow: visible !important;
+  width: 750px;
+  height: 630px;
+  background: url(base.svgz) no-repeat center;
+  position: relative;
+  z-index: 2;
+}
+.controller.xbox::before {
+  content: "";
+  position: absolute;
+
   width: 850px;
   height: 730px;
 
-  background-image:
-    url(base.svgz),
-    url(base-glow.png);
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 
-  background-repeat: no-repeat, no-repeat;
-
-  background-position:
-    center center,
-    center center;
+  background: url(base-glow.png) no-repeat center;
+  pointer-events: none;
+  z-index: 0;
 }
 
 .xbox.white {
