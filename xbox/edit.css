@@ -135,11 +135,15 @@
 
 .xbox .back {
   float: left;
+  top: 292px;
+  left: 588px;
 }
 
 .xbox .start {
   background-position: 33px 0px;
   float: right;
+  top: 292px;
+  left: 588px;
 }
 
 .xbox .abxy {
