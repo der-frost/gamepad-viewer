@@ -20,7 +20,11 @@
 
   background: url(base-glow.png) no-repeat center;
   pointer-events: none;
-  z-index: 1; /* nicht 0 */
+  z-index: -1; /* nicht 0 */
+}
+
+.controller {
+  overflow: visible !important;
 }
 
 .xbox.white {
