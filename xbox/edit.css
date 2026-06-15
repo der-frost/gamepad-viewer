@@ -124,8 +124,8 @@
   width: 33px;
   height: 33px;
   opacity: 0;
-  top: 242px;
-  left: 538px;
+  top: 292px;
+  left: 588px;
 }
 
 .xbox .back.pressed,
@@ -208,8 +208,8 @@
 }
 
 .xbox .stick.left {
-  top: 150;
-  left: 150;
+  top: 200;
+  left: 200;
 }
 
 .xbox .stick.right {
