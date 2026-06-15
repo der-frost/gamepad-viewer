@@ -269,6 +269,9 @@
 
 .xbox {
   background: no-repeat center;
+  position: relative;
+  left: -50px;
+  top: -50px;
 }
 
 /*END Xbox One Controller Styling*/
