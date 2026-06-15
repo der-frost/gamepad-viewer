@@ -170,13 +170,13 @@
 .xbox .b {
   background-position: -49px 0;
   top: 108px;
-  right: 150px;
+  right: -50px;
 }
 
 .xbox .x {
   background-position: -98px 0;
   top: 108px;
-  left: 4px;
+  left: 54px;
 }
 
 .xbox .y {
