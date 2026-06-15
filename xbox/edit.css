@@ -199,8 +199,8 @@
   position: absolute;
   background: url(stick.svgz);
   background-position: -85px 0;
-  height: 133px;
-  width: 133px;
+  height: 83px;
+  width: 83px;
 }
 
 .xbox .stick.pressed {
