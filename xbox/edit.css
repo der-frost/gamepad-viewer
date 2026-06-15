@@ -124,8 +124,6 @@
   width: 33px;
   height: 33px;
   opacity: 0;
-  top: 292px;
-  left: 588px;
 }
 
 .xbox .back.pressed,
@@ -135,15 +133,11 @@
 
 .xbox .back {
   float: left;
-  top: 292px;
-  left: 588px;
 }
 
 .xbox .start {
   background-position: 33px 0px;
   float: right;
-  top: 292px;
-  left: 588px;
 }
 
 .xbox .abxy {
@@ -212,8 +206,8 @@
 }
 
 .xbox .stick.left {
-  top: 0;
-  left: 0;
+  top: -50;
+  left: -50;
 }
 
 .xbox .stick.right {
