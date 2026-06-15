@@ -114,8 +114,8 @@
   position: absolute;
   width: 141px;
   height: 33px;
-  top: 264px;
-  left: 306px;
+  top: 314px;
+  left: 356px;
 }
 
 .xbox .back,
@@ -132,13 +132,11 @@
 }
 
 .xbox .back {
-  float: left;
-  top: 264px;
-  left: 306px;
+  float: left
 }
 
 .xbox .start {
-  background-position: 83px 0px;
+  background-position: 33px 0px;
   float: right;
 }
 
