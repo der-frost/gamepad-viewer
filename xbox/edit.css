@@ -133,6 +133,8 @@
 
 .xbox .back {
   float: left;
+  top: 264px;
+  left: 306px;
 }
 
 .xbox .start {
@@ -206,8 +208,8 @@
 }
 
 .xbox .stick.left {
-  top: 500;
-  left: 500;
+  top: 50px;
+  left: 50px;
 }
 
 .xbox .stick.right {
