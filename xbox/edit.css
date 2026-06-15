@@ -210,16 +210,16 @@
 }
 
 .xbox .stick.right {
-  top: 113px;
-  left: 288px;
+  top: 163px;
+  left: 338px;
 }
 
 .xbox .dpad {
   position: absolute;
   width: 110px;
   height: 111px;
-  top: 445px;
-  left: 323px;
+  top: 395px;
+  left: 273px;
 }
 
 .xbox .face {
