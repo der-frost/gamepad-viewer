@@ -62,8 +62,8 @@
   position: absolute;
   width: 536px;
   height: 61px;
-  left: 107px;
-  top: 129px;
+  left: 157px;
+  top: 179px;
 }
 
 .xbox .bumper.pressed {
@@ -206,8 +206,8 @@
 }
 
 .xbox .stick.left {
-  top: 50;
-  left: 50;
+  top: 100;
+  left: 100;
 }
 
 .xbox .stick.right {
