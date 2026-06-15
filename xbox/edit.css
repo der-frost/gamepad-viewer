@@ -1,8 +1,8 @@
 .controller.xbox {
   outline: 2px solid red;
   overflow: visible !important;
-  width: 750px;
-  height: 630px;
+  width: 850px;
+  height: 730px;
 
   background-image:
     url(base.svgz),
