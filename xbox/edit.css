@@ -1,5 +1,6 @@
 .controller.xbox {
-  overflow: visible;
+  outline: 2px solid red;
+  overflow: visible !important;
   width: 750px;
   height: 630px;
 
