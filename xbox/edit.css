@@ -4,7 +4,9 @@
   background: url(base.svgz) no-repeat center;
   position: relative;
   z-index: 2;
+  overflow: visible;
 }
+
 .controller.xbox::before {
   content: "";
   position: absolute;
@@ -18,7 +20,7 @@
 
   background: url(base-glow.png) no-repeat center;
   pointer-events: none;
-  z-index: 0;
+  z-index: 1; /* nicht 0 */
 }
 
 .xbox.white {
