@@ -1,4 +1,5 @@
 .controller.xbox {
+  overflow: visible;
   width: 750px;
   height: 630px;
 
